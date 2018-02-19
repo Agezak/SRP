@@ -1,0 +1,16 @@
+{
+  "name": "serveursrp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "description": "Home server SRP",
+  "main": "main.js",
+  "author": "Agezak",
+  "license": "ISC"
+}
